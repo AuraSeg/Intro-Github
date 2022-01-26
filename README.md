@@ -7,3 +7,5 @@ Taller desarrollado por el **Google Developer Students Club de la Universidad de
 
 
 ### Insertaremos una imagen
+
+![hack](img/convocatoria_skills_for_women_in_tech.png)
